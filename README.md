@@ -1,5 +1,9 @@
 # KanbanFire
 
+[Demo](https://developers.google.com/codelabs/building-a-web-app-with-angular-and-firebase)
+
+[Tutorial](https://developers.google.com/codelabs/building-a-web-app-with-angular-and-firebase)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
